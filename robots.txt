@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pizzolatoblq3-crypto.github.io/luckx-dev-docs/sitemap.xml
